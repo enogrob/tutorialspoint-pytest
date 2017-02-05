@@ -22,9 +22,9 @@ The `py.test` framework has set up a new standard for Python testing, and has be
 ## Topics
 ```
 UnitTest Framework Tutorial
-[ ] Home
-[ ] Overview
-[ ] Framework
+[x] Home
+[x] Overview
+[x] Framework
 [ ] API
 [ ] Assertion
 [ ] Test Discovery
